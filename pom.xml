@@ -13,7 +13,7 @@
         <main.class>org.kgsd.coffeemaker.CoffeeMakerApplication</main.class>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <guice.version>4.2.2</guice.version>
     </properties>
 
